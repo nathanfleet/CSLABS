@@ -1,2 +1,2 @@
 # CSLABS
-CS2-CS3 labs and projects
+My CS2, and CS3 labs and projects

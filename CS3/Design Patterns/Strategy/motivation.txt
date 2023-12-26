@@ -1,0 +1,17 @@
+Strategy is a BEHAVIORAL design pattern that lets you define a family of 
+algorithms, put each one of them into a separate class, and make their objects
+interchangeable
+
+strategy--
+behavior (algorithm) to be encapsulated
+
+context--
+provides access for clients to algorithm, for algorithm to data delegates strategy
+execution to strategy
+
+push/pull--
+--push--
+context provides all data to strategy
+
+--pull--
+strategy keeps track of context and gets data from it

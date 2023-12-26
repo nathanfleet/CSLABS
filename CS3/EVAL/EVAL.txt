@@ -1,0 +1,19 @@
+Lab 1	10
+Lab 2	10
+Lab 3	10
+Lab 4	10
+Lab 5	10
+Lab 6	10
+Lab 7	10
+Lab 8	10
+Lab 9	10
+Lab 10	
+Lab 11	
+Lab 12	
+Lab 13	
+Quiz 1	8
+Quiz 2	10
+Quiz 3	
+Quiz 4	
+Midterm	145
+Final Exam	

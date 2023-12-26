@@ -1,0 +1,18 @@
+Adapter is a STRUCTURAL pattern that allows objects with incompatible
+interfaces to collaborate
+
+We use this pattern when we want to use some existing class, but its 
+interface isn't compatible with the rest of your code.
+
+Adapter (wrapper) --
+concrete class that inherits from interface
+
+Adaptee --
+implementation class whose interface is modified (adapted)
+
+Object Adapter?
+uses delegation from adapter to Adaptee
+
+Multiple Inheritance --
+class C : public A, private B {...};
+

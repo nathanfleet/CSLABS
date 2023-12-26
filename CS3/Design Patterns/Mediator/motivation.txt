@@ -1,0 +1,13 @@
+Mediator is a BEHAVIORAL design pattern that lets you reduce chaotic dependencies
+between objects. The pattern restricts direct communications between the objects
+and forces them to collaborate only via a mediator objects
+
+abstract mediator --
+defines interface communicating between colleague objects
+
+concrete mediator --
+implements and coordinates communication between colleagues
+
+colleage -- 
+each colleague knows mediator;
+each colleague communicates with mediator to reach other colleagues;

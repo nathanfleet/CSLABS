@@ -1,0 +1,13 @@
+Use the state pattern when you have an object that behaves differently
+depending on its current state, and the state-specific code changes frequently
+
+state is a BEHAVIORAL pattern that lets an object alter its behavior when
+its internal state changes. It appears as if the object changed its class
+
+Context --
+"concentrator" class whose objects actually have states,
+passes operations to the state class
+
+State --
+Abstract class representing state with the set of abstract operation on 
+the state

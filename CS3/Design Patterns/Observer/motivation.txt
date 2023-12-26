@@ -1,0 +1,31 @@
+Observer is a BEHAVIORAL design pattern that lets you define a
+subscription mechanism to notify multiple objects about any
+events that happen to the object they're observing
+
+Elaborated Type Specifier --
+allows to state forward declaration class right in the pace of 
+variable declaration
+
+Why use observer?
+objects need to synchronize behavior with some other object
+(subject): observe changing subject's state
+
+Observer --
+subscribe to state change notification
+
+Subject --
+publish changes by:
+- notifying observers or sending them messages
+
+Abstract Observer / Subject --
+implement registration / notification functionality
+
+Concrete Observer / Subject --
+implement subject state and state acquisition by observer
+
+Push and Pull methods
+
+push -- state change is in message itself
+
+pull -- observer queries the state of the subject after receiving
+the notification

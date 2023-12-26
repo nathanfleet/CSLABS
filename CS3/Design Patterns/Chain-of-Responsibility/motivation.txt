@@ -1,0 +1,14 @@
+BEHAVIORAL design pattern that lets you pass requests along a 
+chain of handlers. Upon receiving a request, each handler 
+decides either to process the request or to pass it to the 
+next handler in the chain
+
+
+
+
+
+handler --
+declares the interface for all concrete handlers;
+
+successor --
+defines the next handler in the chain.

@@ -1,0 +1,5 @@
+CREATIONAL PATTERN
+
+used when you want to ensure that a class has only
+one instance ...
+provides gloabal access to the instance

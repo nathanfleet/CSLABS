@@ -1,0 +1,6 @@
+STRUCTURAL PATTERN
+
+use case:
+split a large class or set of closely related classes
+into two separate hierarchies -- abstraction and implementation --
+

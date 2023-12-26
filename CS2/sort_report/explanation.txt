@@ -1,0 +1,6 @@
+Out of the three, bubble sort took the longest coming in at around 51 seconds to complete.
+The second longest was selection sort which took about 47 seconds to complete. The fastest
+sort by far was quick sort which took about 1-2 seconds to complete. I believe that bubble
+sort took the longest to complete because it had millions of calls to different parts of the
+program such as std::vector which had over one billion calls to it. I believe it is much less
+efficient than quick sort.

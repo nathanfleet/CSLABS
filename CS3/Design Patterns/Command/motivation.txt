@@ -1,0 +1,19 @@
+BEHAVIORAL design pattern that turns a request into a 
+stand-alone object that contains all information about the 
+request.
+
+Command --
+declares an interface for executing the operation, declares
+execute()
+
+Concrete Command --
+implements execute(), acts on receiver
+
+Client -- creates the concrete command object and sets up its
+receiver
+
+Receiver --
+object on which operations are performed
+
+Invoker --
+Asks to execute the command

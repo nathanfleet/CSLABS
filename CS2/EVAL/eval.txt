@@ -1,0 +1,33 @@
+P1
+
+m1: 95 - make tests doesnt compile due to missing equal test file -> make sure to test in wasp/hornet
+m2: 90 (regrade)
+m3: 75 - no added test cases for new implementations; no data text files to run multiply; expected mathmatical description (primes/5)
+
+bonus: 90
+
+
+P2
+
+m1: 90 - fails at < checkM1 test -> abc <= ad;
+m2: 80 - didnt commit testoracles; fails tests during input -> trying to open file, probably forgot to commit all the files from shared
+m3: 85 - inadequte test cases; you should also be asserting more than just the size is right;
+m4: 
+
+bonus: 
+
+P3
+
+m1: 
+m2: 
+m3: 
+
+bonus: 
+
+P4
+
+m1: 
+m2: 
+m3: 
+
+bonus: 

@@ -1,0 +1,3 @@
+non-canonical (not gang of 4) design pattern
+
+well-known object that other objects use to find common objects and services

@@ -1,0 +1,23 @@
+Beginning log...
+Message
+Message
+Message
+Message
+Message
+Message
+Message
+Message
+Message
+Message
+End of log.Beginning log...
+Message
+Message
+Message
+Message
+Message
+Message
+Message
+Message
+Message
+Message
+End of log.

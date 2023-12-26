@@ -1,0 +1,27 @@
+Visitor is a BEHAVIORAL design pattern that lets you separate
+algorithms from the objects on which they operate
+
+static dispatch --
+compile time selection of which version of the polymorphic
+function to execute
+
+dynamic dispatch --
+run time selection
+
+single dispatch -- 
+selection based on a single objects
+supported via virtual functions
+
+double dispatch --
+selection based on multiple objects
+
+what does visitor design pattern do?
+separates data from operations on it by deefining visitor class
+that implements the operations
+
+element --
+has accept() method that take visitor as an argument
+
+visitor -- 
+defines visit() with parameter corresponding to the particular
+concrete element

@@ -1,0 +1,13 @@
+prototype is a CREATIONAL design pattern that lets you copy existing
+objects without making your code dependent on their classes
+
+enum class Gender {Male, Female}; -- scoped and typed
+
+Type Covariance -- overriding virtual function of derived class may 
+accept or return types of derived class
+
+Why create object prototype?
+Because creating objects from scratch is too expensive
+
+clone() --
+returns the pointer to the copy of the prototype (virtual)

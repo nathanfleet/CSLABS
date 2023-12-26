@@ -1,0 +1,12 @@
+==MEASURED RUN TIME==
+Standard Sort:  0.00739264 seconds
+Bubble Sort:    20.1242 seconds
+Insertion Sort: 9.90345 seconds  
+
+==COMMENTS==
+The measured run times for these different sorting algorithms
+makes sense. The STL sort likely uses a combination of different
+sorting algorithms which would explain its sort run time. Bubble
+sort is a basic sorting algorithm with a O(n^2) complexity, which
+would explain its long run time for the large dataset. The same
+thing applies for insertion sort, its complexity is O(n^2).

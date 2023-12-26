@@ -1,0 +1,17 @@
+Composite is a STRUCTURAL design pattern that lets you 
+compose objects into tree structures and then work with these
+structures as if they were individual objects
+
+composite ONLY makes sense wehn the core model of your app can
+be represented as a tree **
+
+component -- abstract uniform interface class for both 
+collections and primitive items
+
+leaf -- concrete primitive class
+
+composite -- collection that possibly consists of leaves or 
+other composites, implements interface and access to children
+/parents
+
+frequently used with visitor

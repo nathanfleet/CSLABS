@@ -1,0 +1,22 @@
+STRUCTURAL design pattern that lets you fit more objects
+into the avaliable amount of RAM by sharing common parts
+of state between multiple objects instead of keeping
+all of the data in each object
+
+abstract flyweight --
+defines interface for the intrinsic part
+
+concrete flyweight--
+implements the intrinsic part
+
+client--
+stores the extrinsic part of the object
+
+factory--
+maintains the collection of flyweight objects
+
+intrinsic -- 
+state independent part to be stores in the Flyweight object
+
+extrinsic --
+stateful part to be stored in the client

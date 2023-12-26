@@ -1,0 +1,17 @@
+BEHAVIORAL PATTERN
+
+The template method is a behavioral design pattern that
+defines the skeleton of an algorithm in the superclass
+but lets subclasses override specific steps of the 
+algorithm wihout changing its structure
+
+Primitive Operations
+- functions to be implemented in concrete class
+
+Hook Operations
+- may be overridden ; has a default implementation
+
+Template method
+- function in base class that uses primitive operations 
+to accomplish a certain task
+

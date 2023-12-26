@@ -1,0 +1,14 @@
+BEHAVIORAL design pattern that lets you save and restore the
+previous state of an object without revealing the details of 
+its implementation
+
+originator -- 
+creates memento containing snapshot of current state, uses 
+memento to restore state
+
+memento --
+stores internal state of originator, only originator may see
+internals
+
+caretaker -- 
+keeps memento, does not access or examine memento's contents

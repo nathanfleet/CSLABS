@@ -1,0 +1,9 @@
+Facade is a STRUCTURAL design pattern that provides a simplified interface to
+a library, a framework, or any other complex set of classes.
+
+Facade--
+knows which subsystem classes are responsible for request, delegates requests to
+appropriate subsystem objects
+
+Susbsystem--
+implement functionality, are not aware of facade
