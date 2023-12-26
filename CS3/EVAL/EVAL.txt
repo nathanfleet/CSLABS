@@ -7,13 +7,15 @@ Lab 6	10
 Lab 7	10
 Lab 8	10
 Lab 9	10
-Lab 10	
-Lab 11	
-Lab 12	
-Lab 13	
+Lab 10	10
+Lab 11	9
+Lab 12	9 i->r->u->h->seg fault
+Lab 13	10
+Lab 14	10
 Quiz 1	8
 Quiz 2	10
-Quiz 3	
-Quiz 4	
+Quiz 3	9
+Quiz 4	10
 Midterm	145
-Final Exam	
+Final Exam
+	133
